@@ -6,7 +6,7 @@ This repository contains notes and code from the Udemy course on Data Science, M
 
 - **Notes**: Detailed notes from the course covering various topics in data science, machine learning, and deep learning.
 - **Notebooks**: Jupyter notebooks with code examples and exercises.
-- **Scripts**: Python scripts for various data science tasks.
+- **Scripts**: Python scripts for various data science tasks and automation.
 
 ## Libraries Used
 
