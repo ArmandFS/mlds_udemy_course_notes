@@ -1,4 +1,4 @@
-# Data Science, Machine Learning, and Deep Learning Notes and Code
+# Data Science, Machine Learning, Deep Learning Notes and Code
 
 This repository contains notes and code from the Udemy course on Data Science, Machine Learning, and Deep Learning by Jose Portilla. It includes examples, exercises, and projects using popular Python libraries.
 
