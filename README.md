@@ -15,6 +15,4 @@ This repository contains notes and code from the Udemy course on Data Science, M
 - [scikit-learn](https://scikit-learn.org/)
 - [matplotlib](https://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
-- [tensorflow](https://www.tensorflow.org/)
-- [keras](https://keras.io/)
-- [pytorch](https://pytorch.org/)
+- and many more!
